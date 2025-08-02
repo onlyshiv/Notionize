@@ -1,5 +1,7 @@
 # 🧱 NotionX – A Minimal Notion-style Workspace Clone
 
+[![Live Demo – NotionX](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://notionize-nine.vercel.app/)
+
 A sleek Notion-inspired frontend project built with **React**, **Vite**, and **Tailwind CSS**. This app features block-style editing, responsive layouts, and a modern UI built from scratch — perfect for learning advanced component architecture and UI/UX principles.
 
 ## ✨ Features
@@ -76,12 +78,6 @@ Visit `http://localhost:5173` in your browser.
   ├── styles         # Tailwind config / global styles
   └── main.jsx       # App entry point
 ```
-
----
-
-## 🔗 Live Demo
-
-[🚀 View Live Demo](https://your-vercel-link.vercel.app/)
 
 ---
 
